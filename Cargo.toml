@@ -2,7 +2,10 @@
 name = "music-tag"
 version = "0.1.0"
 edition = "2021"
-
+description = "music tag for mp3, flac, m4a and ogg files"
+keywords = ["mp3", "flac", "ogg", "m4a", "music"]
+license = "MIT"
+homepage = "https://github.com/KByys/rust-music-tag.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
